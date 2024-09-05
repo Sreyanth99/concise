@@ -5,7 +5,7 @@ Works well on Mobile and Desktop
 Features:
 
 -Article Summary\
--Article History fetched from the local device\
+-Article History\
 -Slick UI\
 -OpenAI API\
 -Copy To Clipboard\

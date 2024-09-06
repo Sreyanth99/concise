@@ -20,7 +20,7 @@ Technologies Used:
 -RTK
 
 
-Head over to <b><a href="https://concise-srey-i.netlify.app/" target="_blank">Concise-App</a></b> to try out the live version
+Head over to <a href="https://concise-srey-i.netlify.app/" target= "_blank">Concise-App</a> to try out the live version
 
 ![image](https://github.com/user-attachments/assets/466cc830-0c0c-4389-a23f-0ac4c13baf15)
 

@@ -2,8 +2,7 @@
 A website that makes lengthy articles more concise!\
 Works well on Mobile and Desktop
 
-Features:
-
+<b><i>Features:</i></b> \
 -Article Summary\
 -Article History\
 -Slick UI\
@@ -12,16 +11,16 @@ Features:
 -Error Handling\
 -Animations
 
-Technologies Used:
-
+<b><i>Technologies Used:</i></b> \
 -Vite\
 -React\
 -TailwindCSS\
 -RTK
 
 
-Head over to <a href="https://concise-srey-i.netlify.app/" target= "_blank">Concise-App</a> to try out the live version
+Head over to <a href="https://concise-srey-i.netlify.app/">Concise-App</a> to try out the live version or click the image below
 
-![image](https://github.com/user-attachments/assets/466cc830-0c0c-4389-a23f-0ac4c13baf15)
+<a href="https://concise-srey-i.netlify.app/">![image](https://github.com/user-attachments/assets/6cfd4e37-2dab-49e1-9c5a-74a438e6bc17)</a>
+
 
 

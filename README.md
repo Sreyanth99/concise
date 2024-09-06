@@ -22,5 +22,7 @@ Head over to <a href="https://concise-srey-i.netlify.app/">Concise-App</a> to tr
 
 ![image](https://github.com/user-attachments/assets/6cfd4e37-2dab-49e1-9c5a-74a438e6bc17)
 
+<a href="https://concise-srey-i.netlify.app/"> ![LandingPage](ConciseLanding.png) </a>
+
 
 
